@@ -1,0 +1,14 @@
+body{
+    background-color:grey;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    }
+    img{
+    height:768px;
+    width: 1024px;
+    border-radius: 50px;
+    }
+    #width{
+    width:1024px;
+    }
